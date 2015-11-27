@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff82abbf_9ddc9419",
+        "filename": "drivers/staging/prima/Kbuild",
+        "patchSetId": 2
+      },
+      "lineNbr": 557,
+      "author": {
+        "id": 13881
+      },
+      "writtenOn": "2015-11-27T05:27:53Z",
+      "side": 1,
+      "message": "This is the main difference involving the WiFi MAC address between the new and old drivers. On the old drivers, WLAN_NV_OTA_UPGRADE was defined, while the new drivers define MOTO_UTAGS_MAC.",
+      "range": {
+        "startLine": 553,
+        "startChar": 0,
+        "endLine": 557,
+        "endChar": 5
+      },
+      "revId": "19b5f073a433e011af32c7273560e1749e97c34c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
