@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_3b5b232f",
+        "filename": "drivers/staging/prima/CORE/VOSS/src/vos_nvitem.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 1336,
+      "author": {
+        "id": 13881
+      },
+      "writtenOn": "2015-12-30T12:15:03Z",
+      "side": 1,
+      "message": "I hadn\u0027t noticed it earlier but this section that was added here (lines 1323 to 1335) doesn\u0027t belong. It was incorrectly added by Shubham and I hadn\u0027t noticed it when I was fixing up his additions.",
+      "revId": "54c1edb3f177558b0d8ad2c79a15e273c90964a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
